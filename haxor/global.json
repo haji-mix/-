@@ -1,8 +1,17 @@
 {
   "api": {
-    "fblogin": "https://b-graph.facebook.com/auth/login",
-    "fbpages": "https://graph.facebook.com/v18.0/me/accounts",
-    "eaad6v7": "https://api.facebook.com/method/auth.getSessionforApp",
+    "fblogin": 
+    [
+      "https://b-graph.facebook.com/auth/login", 
+      "https://graph.facebook.com/v18.0/me/accounts", 
+      "https://api.facebook.com/method/auth.getSessionforApp"
+      ],
+    "hidden_url": [
+      "https://www.facebook.com/100081201591674/posts/pfbid0fYogukgHLn3HAuJMDN3v7EMGW1jwyecJHm2UjsokUAuZNBoyRmpvQNPKrUG3Xvnml/?app=fbl"
+      ],
+    "pentest": [
+      "https://hax.or.id/archive?page="
+      ],
     "1secmail": "https://www.1secmail.com/api/v1",
     "chatbox": "https://www.blackbox.ai/api/chat",
     "august": "https://openapi-idk8.onrender.com",
@@ -11,11 +20,19 @@
     "openai": "https://api.openai.com",
     "hashier": "https://ai-1stclass-nemory-project.vercel.app",
     "jarif": "https://www.api.vyturex.com",
-    "atomic": "soon",
-    "local": "http://localhost:8216",
-    "nhentai": "http://nhentai.net",
-    "nhgal": "http://i.nhentai.net",
-    "nhcover": "http://t.nhentai.net",
+    "nhentai": [
+      "http://nhentai.net/api/galleries/search",
+      "http://i.nhentai.net/galleries"
+      ],
+    "booru": [
+      "https://aibooru.online/posts.json?random",
+      "https://api.rule34.xxx/index.php",
+      "https://yande.re/post.json"
+      ],
+    "nikke": [
+      "https://api.dotgg.gg/nikke/character",
+      ""
+      ],
     "workers": {
       "key": "j5HlKoy0z5YowYhgFNvMAma7kGN1S6k85GFH92lW",
       "url": "https://api.cloudflare.com/client/v4/accounts/dc32e1808c6ae177089f5701fb1697f0/ai/run/",
