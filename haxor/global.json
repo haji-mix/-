@@ -73,7 +73,8 @@
       }
     }
   },
-        "design": {
-        "line": "━━━━━━━━━━━━━━━━━━━",        "author": "Kenneth Panio"
-      }
+  "design": {
+    "line": "━━━━━━━━━━━━━━━━━━",
+    "author": "Kenneth Panio",
   }
+}
