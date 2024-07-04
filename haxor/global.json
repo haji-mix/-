@@ -70,10 +70,10 @@
         "zephyr": [
           "@hf/thebloke/zephyr-7b-beta-awq"
         ]
-      },
-      "design": {
+      }
+    },
+        "design": {
         "line": "━━━━━━━━━━━━━━━━━━━",        "author": "Kenneth Panio"
       }
-    }
   }
 }
