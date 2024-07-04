@@ -30,8 +30,7 @@
       "https://yande.re/post.json"
       ],
     "nikke": [
-      "https://api.dotgg.gg/nikke/character",
-      ""
+      "https://api.dotgg.gg/nikke/character"
       ],
     "workers": {
       "key": "j5HlKoy0z5YowYhgFNvMAma7kGN1S6k85GFH92lW",
