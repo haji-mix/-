@@ -1,5 +1,10 @@
 {
   "api": {
+    "fb": [
+      {
+      "token": "EAAD6V7os0gcBO5q4wlMAovsRb4ZAxA46um2XPqMbqrNQd8zhLG4pUqPQ3A2xdL69JMSZAAfF3bZBRwFXq6fsjTg6zH4q68Re4Qt1HEZBa6WPMraXCmMYWDfaOSxfuvvU9lsYUzJWy9LjLK2Y47cysZA7xZA5mz3Lxx9NSh1xN0RrjRtoAnCNTK9u4bqtqzaaZBAp5bwa1LpAgZDZD"
+      }
+      ],
     "fblogin": 
     [
       "https://b-graph.facebook.com/auth/login", 
