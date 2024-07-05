@@ -101,7 +101,9 @@
   },
   "custom_url": {
     "hentai_page": [
-      ""
-      ]
+      "https://raw.githubusercontent.com/atomic-zero/module.js/master/haxor/hentai.json"
+      ],
+      "cosplay_page": [
+        ]
   }
 }
