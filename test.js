@@ -5,16 +5,16 @@ const greet = () => {
 
 const calculate = (a, b) => {
   return a + b;
-};//
+};
 
 const settings = {
   theme: "dark",
   fontSize: "14px",
 };
 
-// Export the functions and variables
-module.exports = {
+// Return the functions and variables as an object
+{
   greet,
   calculate,
   settings,
-};
+}
