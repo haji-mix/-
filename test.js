@@ -1,20 +1,12 @@
-// Define some functions and variables
-const greet = () => {
-  return "Hello, world!";
+module.exports = {
+  greet: () => {
+    return "Hello, world!";
+  },
+  calculate: (a, b) => {
+    return a + b;
+  },
+  settings: {
+    theme: "dark",
+    fontSize: "14px",
+  },
 };
-
-const calculate = (a, b) => {
-  return a + b;
-};
-
-const settings = {
-  theme: "dark",
-  fontSize: "14px",
-};
-
-// Return the functions and variables as an object
-{
-  greet,
-  calculate,
-  settings,
-}
