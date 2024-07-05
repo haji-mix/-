@@ -5,7 +5,7 @@ const greet = () => {
 
 const calculate = (a, b) => {
   return a + b;
-};
+};//
 
 const settings = {
   theme: "dark",
