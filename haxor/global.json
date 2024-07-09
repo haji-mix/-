@@ -35,6 +35,13 @@
     "workers": {
       "key": "j5HlKoy0z5YowYhgFNvMAma7kGN1S6k85GFH92lW",
       "url": "https://api.cloudflare.com/client/v4/accounts/dc32e1808c6ae177089f5701fb1697f0/ai/run/",
+      "imagine": [
+        "@cf/lykon/dreamshaper-8-lcm",
+        "@cf/runwayml/stable-diffusion-v1-5-img2img",
+        "@cf/runwayml/stable-diffusion-v1-5-inpainting",
+        "@cf/stabilityai/stable-diffusion-xl-base-1.0",
+        "@cf/bytedance/stable-diffusion-xl-lightning"
+        ],
       "models": {
         "llama": [
           "@cf/meta/llama-2-7b-chat-fp16",
