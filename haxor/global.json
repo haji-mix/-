@@ -24,6 +24,11 @@
       "http://nhentai.net/api/galleries/search",
       "http://i.nhentai.net/galleries"
       ],
+      "hanime": [
+        "https://hanime.tv/api/v8/hentai_videos",
+        "https://search.htv-services.com",
+        "https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s"
+        ],
     "booru": [
       "https://aibooru.online/posts.json?random",
       "https://api.rule34.xxx/index.php",
