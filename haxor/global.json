@@ -40,9 +40,19 @@
     "workers": {
       "key": "j5HlKoy0z5YowYhgFNvMAma7kGN1S6k85GFH92lW",
       "url": "https://api.cloudflare.com/client/v4/accounts/dc32e1808c6ae177089f5701fb1697f0/ai/run/",
-      "whisper": [
+      "vision": [
+        "@cf/microsoft/resnet-50",
+        "@cf/facebook/detr-resnet-50"
+        ],
+      "summarize": [
+        "@cf/facebook/bart-large-cnn"
+        ],
+      "transcribe": [
         "@cf/openai/whisper",
         "@cf/openai/whisper-tiny-en"
+        ],
+      "translate": [
+        "@cf/meta/m2m100-1.2b"
         ],
       "imagine": [
         "@cf/lykon/dreamshaper-8-lcm",
