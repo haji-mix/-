@@ -66,8 +66,8 @@
           "@cf/meta/llama-2-7b-chat-fp16",
           "@hf/thebloke/llama-2-13b-chat-awq",
           "@cf/meta-llama/llama-2-7b-chat-hf-lora",
-          "@cf/meta/llama/llama-3-8b-instruct",
-          "@cf/meta/llama/llama-3-8b-instruct-awq",
+          "@cf/meta/llama-3-8b-instruct",
+          "@cf/meta/llama-3-8b-instruct-awq",
           "@hf/thebloke/llamaguard-7b-awq",
           "@cf/tinyllama/tinyllama-1.1b-chat-v1.0"
         ],
@@ -124,6 +124,11 @@
   "design": {
     "line": "━━━━━━━━━━━━━━━━━━",
     "author": "Kenneth Panio"
+  },
+  "host": {
+          "server": [
+                  "http://192.210.175.9:9215"
+                  ]
   },
   "custom_url": {
     "hentai_page": [
