@@ -78,7 +78,6 @@
           "@hf/thebloke/mistral-7b-instruct-v0.1-awq",
           "@hf/mistral/mistral-7b-instruct-v0.2",
           "@cf/mistral/mistral-7b-instruct-v0.2-lora",
-          "@hf/thebloke/neural-chat-7b-v3-1-awq",
           "@hf/thebloke/openhermes-2.5-mistral-7b-awq",
           "@cf/fblgit/una-cybertron-7b-v2-bf16"
         ],
@@ -98,7 +97,8 @@
         ],
         "openchat": [
           "@cf/openchat/openchat-3.5-0106",
-          "@hf/nexusflow/starling-lm-7b-beta"
+          "@hf/nexusflow/starling-lm-7b-beta",
+          "@hf/thebloke/neural-chat-7b-v3-1-awq"
         ],
         "phi": [
           "@cf/microsoft/phi-2"
