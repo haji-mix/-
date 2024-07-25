@@ -68,6 +68,7 @@
           "@cf/meta-llama/llama-2-7b-chat-hf-lora",
           "@cf/meta/llama-3-8b-instruct",
           "@cf/meta/llama-3-8b-instruct-awq",
+          "cf/meta/llama-3.1-8b-instruct",
           "@hf/thebloke/llamaguard-7b-awq",
           "@cf/tinyllama/tinyllama-1.1b-chat-v1.0"
         ],
