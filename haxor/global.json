@@ -39,6 +39,9 @@
       "https://api.dotgg.gg/nikke/character"
       ],
     "workers": {
+      "google": {
+              "key": "AIzaSyCArDAQVcnm6qrdAI_wnF1tVUgp88eG66M"
+      },
       "key": "j5HlKoy0z5YowYhgFNvMAma7kGN1S6k85GFH92lW",
       "url": "https://api.cloudflare.com/client/v4/accounts/dc32e1808c6ae177089f5701fb1697f0/ai/run/",
       "vision": [
