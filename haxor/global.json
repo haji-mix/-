@@ -40,7 +40,7 @@
       ],
     "workers": {
       "google": {
-              "key": "AIzaSyDUO1W7My63X1bmjgLI9tyoOCBpB2_a1AM"
+              "key": "AIzaSyAEWlIaqOBsjC8wscAjXngiP7ogwQaSkho"
       },
       "key": "j5HlKoy0z5YowYhgFNvMAma7kGN1S6k85GFH92lW",
       "url": "https://api.cloudflare.com/client/v4/accounts/dc32e1808c6ae177089f5701fb1697f0/ai/run/",
