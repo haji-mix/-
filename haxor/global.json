@@ -41,12 +41,14 @@
     "workers": {
       "huggingface": {
               "key": "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",
+              "summarize": [
+                      "facebook/bart-large-cnn"
+                      ],
               "models": {
                       "mistral": [
                               "mistralai/Mixtral-8x7B-Instruct-v0.1",
                               "mistralai/Mistral-Nemo-Instruct-2407",
-                              "mistralai/Mistral-7B-Instruct-v0.3",
-                              ""
+                              "mistralai/Mistral-7B-Instruct-v0.3"
                               ]
               }
       },
