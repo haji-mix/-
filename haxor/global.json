@@ -39,6 +39,14 @@
       "https://api.dotgg.gg/nikke/character"
       ],
     "workers": {
+      "huggingface": {
+              "key": "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",
+              "models": {
+                      "mistral": [
+                              "mistralai/Mixtral-8x7B-Instruct-v0.1"
+                              ]
+              }
+      },
       "google": {
               "key": "AIzaSyAEWlIaqOBsjC8wscAjXngiP7ogwQaSkho"
       },
