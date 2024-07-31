@@ -44,9 +44,8 @@
               "summarize": [
                       "facebook/bart-large-cnn"
                       ],
-              "code": [
-                      "codellama/CodeLlama-7b-hf",
-                      ""
+              "coder": [
+                      "codellama/CodeLlama-7b-hf"
                       ],
               "models": {
                       "mistral": [
