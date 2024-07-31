@@ -60,7 +60,16 @@
               }
       },
       "google": {
-              "key": "AIzaSyAEWlIaqOBsjC8wscAjXngiP7ogwQaSkho"
+              "key": "QUl6YVN5RGFZU005QkpDRGM3d2pwYk1TczJIQXFmZ0t3UGVIRG9J",
+              "models": {
+                      "gemini": [
+                              "gemini-1.5-flash",
+                              "gemini-1.5-pro",
+                              "gemini-1.0-pro",
+                              "text-embedding-004",
+                              "aqa"
+                              ]
+              }
       },
       "key": "j5HlKoy0z5YowYhgFNvMAma7kGN1S6k85GFH92lW",
       "url": "https://api.cloudflare.com/client/v4/accounts/dc32e1808c6ae177089f5701fb1697f0/ai/run/",
