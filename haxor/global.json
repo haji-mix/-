@@ -44,12 +44,20 @@
               "summarize": [
                       "facebook/bart-large-cnn"
                       ],
+              "code": [
+                      "codellama/CodeLlama-7b-hf",
+                      ""
+                      ],
               "models": {
                       "mistral": [
                               "mistralai/Mixtral-8x7B-Instruct-v0.1",
                               "mistralai/Mistral-Nemo-Instruct-2407",
-                              "mistralai/Mistral-7B-Instruct-v0.3"
-                              ]
+                              "mistralai/Mistral-7B-Instruct-v0.3",
+                              "HuggingFaceH4/zephyr-7b-beta"
+                              ],
+                       "llama": [
+                               "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
+                               ]
               }
       },
       "google": {
