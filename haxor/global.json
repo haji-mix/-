@@ -40,7 +40,7 @@
       ],
     "workers": {
       "huggingface": {
-              "key": "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",
+              "key": "aGZfaE1yemlWcGZPT29Fbnh4Wm1FakFUU1hud3puTFBoYWRQZQ==",
               "summarize": [
                       "facebook/bart-large-cnn"
                       ],
@@ -71,7 +71,7 @@
                               ]
               }
       },
-      "key": "j5HlKoy0z5YowYhgFNvMAma7kGN1S6k85GFH92lW",
+      "key": "ajVIbEtveTB6NVlvd1loZ0ZOdk1BbWE3a0dOMVM2azg1R0ZIOTJsVw==",
       "url": "https://api.cloudflare.com/client/v4/accounts/dc32e1808c6ae177089f5701fb1697f0/ai/run/",
       "vision": [
         "@cf/microsoft/resnet-50",
