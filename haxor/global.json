@@ -52,7 +52,8 @@
                               "mistralai/Mixtral-8x7B-Instruct-v0.1",
                               "mistralai/Mistral-Nemo-Instruct-2407",
                               "mistralai/Mistral-7B-Instruct-v0.3",
-                              "HuggingFaceH4/zephyr-7b-beta"
+                              "HuggingFaceH4/zephyr-7b-beta",
+                              "NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO"
                               ],
                        "llama": [
                                "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
@@ -112,7 +113,8 @@
           "@hf/mistral/mistral-7b-instruct-v0.2",
           "@cf/mistral/mistral-7b-instruct-v0.2-lora",
           "@hf/thebloke/openhermes-2.5-mistral-7b-awq",
-          "@cf/fblgit/una-cybertron-7b-v2-bf16"
+          "@cf/fblgit/una-cybertron-7b-v2-bf16",
+          "@hf/thebloke/zephyr-7b-beta-awq"
         ],
         "deepseek": [
           "@hf/thebloke/deepseek-coder-6.7b-base-awq",
@@ -142,9 +144,6 @@
         ],
         "sqlcoder": [
           "@cf/defog/sqlcoder-7b-2"
-        ],
-        "zephyr": [
-          "@hf/thebloke/zephyr-7b-beta-awq"
         ]
       }
     }
