@@ -41,7 +41,7 @@
     "workers": {
       "writer": {
               "url": "https://data.toolbaz.com/writer.php",
-              "models": ["gpt-4o-mini", "unfiltered_x", "Qwen2-72B", "Llama-3-70B", "mixtral_8x22b"]
+              "models": ["gpt-4o-mini", "unfiltered_x", "Qwen2-72B", "Llama-3-70B", "mixtral_8x22b", "toolbaz_v3.5_pro", "toolbaz_v3", "toolbaz_v3"]
       },
       "huggingface": {
               "key": "aGZfaE1yemlWcGZPT29Fbnh4Wm1FakFUU1hud3puTFBoYWRQZQ==",
