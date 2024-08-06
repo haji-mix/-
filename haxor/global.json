@@ -57,7 +57,8 @@
                               "mistralai/Mistral-Nemo-Instruct-2407",
                               "mistralai/Mistral-7B-Instruct-v0.3",
                               "HuggingFaceH4/zephyr-7b-beta",
-                              "NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO"
+                              "NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO",
+                              "mistralai/Mistral-7B-Instruct-v0.2"
                               ],
                        "llama": [
                                "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
