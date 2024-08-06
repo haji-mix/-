@@ -39,6 +39,10 @@
       "https://api.dotgg.gg/nikke/character"
       ],
     "workers": {
+      "writer": {
+              "url": "https://data.toolbaz.com/writer.php",
+              "models": ["gpt-4o-mini", "unfiltered_x", "Qwen2-72B", "Llama-3-70B", "mixtral_8x22b"]
+      },
       "huggingface": {
               "key": "aGZfaE1yemlWcGZPT29Fbnh4Wm1FakFUU1hud3puTFBoYWRQZQ==",
               "summarize": [
