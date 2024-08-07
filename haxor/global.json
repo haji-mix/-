@@ -165,7 +165,7 @@
   },
   "host": {
           "server": [
-                  "http://192.210.175.9:9215"
+                  "http://chatbox-project.gleeze.com"
                   ]
   },
   "custom_url": {
