@@ -42,7 +42,7 @@
       "duckgo": {
               "url": "https://duckduckgo.com/duckchat/v1/chat",
               "models": ["meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo", "claude-3-haiku-20240307", "gpt-4o-mini", "mistralai/Mixtral-8x7B-Instruct-v0.1"],
-              "key": "4-75155397260588516348842524120244341484"
+              "key": "NC03NTE1NTM5NzI2MDU4ODUxNjM0ODg0MjUyNDEyMDI0NDM0MTQ4NA=="
       },
       "writer": {
               "url": "https://data.toolbaz.com/writer.php",
