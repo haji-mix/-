@@ -39,6 +39,10 @@
       "https://api.dotgg.gg/nikke/character"
       ],
     "workers": {
+      "duckgo": {
+              "url": "https://duckduckgo.com/duckchat/v1/chat",
+              "models": ["meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo", "claude-3-haiku-20240307", "gpt-4o-mini", "mistralai/Mixtral-8x7B-Instruct-v0.1"]
+      },
       "writer": {
               "url": "https://data.toolbaz.com/writer.php",
               "models": ["gpt-4o-mini", "unfiltered_x", "Qwen2-72B", "Llama-3-70B", "mixtral_8x22b", "toolbaz_v3.5_pro", "toolbaz_v3", "toolbaz_v3"]
