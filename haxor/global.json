@@ -127,7 +127,10 @@
                   "alvdansen/littletinies",
                   "alvdansen/colorfulshadowsketch",
                   "alvdansen/brokenshadows",
-                  "alvdansen/soft-and-squishy-linework"
+                  "alvdansen/soft-and-squishy-linework",
+                  "Lykon/DreamShaper",
+                  "Lykon/dreamshaper-xl-v2-turbo",
+                  "SimianLuo/LCM_Dreamshaper_v7"
                ],
                "mistral":[
                   "mistralai/Mixtral-8x7B-Instruct-v0.1",
