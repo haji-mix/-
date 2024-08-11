@@ -41,14 +41,19 @@
          "aiproxy": {
                  "url": "https://aiproxy-416803.uc.r.appspot.com/api/speak",
                  "tts":[
-                         "en-US-Neural2-E===en-US"
+                         "en-US-Neural2-E===en-US",
+                         "ja-JP-Wavenet-A===ja-JP",
+                         "ja-JP-Wavenet-C===ja-JP",
+                         "fil-PH-Standard-D===fil-PH"
                          ]
          },
          "network": {
                  "url": "https://netwrck.com/api/chatpred_or",
                  "models":[
                          "anthropic/claude-3.5-sonnet:beta",
-                         "gryphe/mythomax-l2-13b"
+                         "gryphe/mythomax-l2-13b",
+                         "neversleep/llama-3-lumimaid-8b",
+                         "neversleep/llama-3-lumimaid-80b"
                          ]
          },
          "duckgo":{
