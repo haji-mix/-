@@ -38,6 +38,19 @@
          "https://api.dotgg.gg/nikke/character"
       ],
       "workers":{
+         "aiproxy": {
+                 "url": "https://aiproxy-416803.uc.r.appspot.com/api/speak",
+                 "tts":[
+                         "en-US-Neural2-E===en-US"
+                         ]
+         },
+         "network": {
+                 "url": "https://netwrck.com/api/chatpred_or",
+                 "models":[
+                         "anthropic/claude-3.5-sonnet:beta",
+                         "gryphe/mythomax-l2-13b"
+                         ]
+         },
          "duckgo":{
             "url":[
                "https://duckduckgo.com/duckchat/v1/status",
