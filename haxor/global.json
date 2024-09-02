@@ -194,8 +194,8 @@
                    "martintomov/rayban-meta-glasses-v1",
                    "Fictiverse/ElRisitas_Flux.1D_Lora",
                    "dataautogpt3/FLUX-anime1",
-                   "Meina/Unreal_V4.1",
-                   "Meina/MeinaMix_V11"
+                   "black-forest-labs/FLUX.1-dev",
+                   "black-forest-labs/FLUX.1-schnell"
                  ],
                "mistral":[
                   "mistralai/Mixtral-8x7B-Instruct-v0.1",
