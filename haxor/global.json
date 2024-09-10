@@ -96,25 +96,11 @@
             "models":{
                        "imagine": [
                    "CompVis/stable-diffusion-v1-4",
-                   "runwayml/stable-diffusion-v1-5",
-                   "stabilityai/stable-diffusion-2-base",
                    "stabilityai/stable-diffusion-2",
-                   "stabilityai/stable-diffusion-2-1-base",
-                   "stabilityai/stable-diffusion-2-1",
                    "hakurei/waifu-diffusion",
                    "UnfilteredAI/NSFW-gen-v2",
                    "UnfilteredAI/NSFW-GEN-ANIME",
-                   "UnfilteredAI/NSFW-GEN-ANIME-v2",
-                   "stablediffusionapi/newrealityxl-global-nsfw",
-                   "Dremmar/nsfw-xl",
-                   "stablediffusionapi/mklan-xxx-nsfw-pony",
-                   "stablediffusionapi/omnigenxl-nsfw-sfw",
-                   "stablediffusionapi/duchaiten-real3d-nsfw-xl",
                    "stablediffusionapi/explicit-freedom-nsfw-wai",
-                   "Meina/Unreal_V4.1",
-                   "Meina/MeinaMix_V11",
-                   "Linaqruf/animagine-xl",
-                   "cagliostrolab/animagine-xl-3.1",
                    "alvdansen/phantasma-anime",
                    "alvdansen/archfey_anime",
                    "alvdansen/frosting_lane_redux",
@@ -205,8 +191,7 @@
                ],
                "llama":[
                   "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
-                  "codellama/CodeLlama-34b-Instruct-hf",
-                  ""
+                  "codellama/CodeLlama-34b-Instruct-hf"
                ],
                "microsoft":[
                   "microsoft/DialoGPT-large",
