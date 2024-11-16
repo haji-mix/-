@@ -298,11 +298,12 @@
     },
     "design": {
         "line":"━━━━━━━━━━━━━━━━━━",
-        "author":"Kenneth Panio"
+        "author":"Kenneth Panio",
     },
     "host": {
         "server":[
             "http://penny.hidencloud.com:25701"
-        ]
+        ],
+    "secret": ["hajime2004"],
     }
 }
