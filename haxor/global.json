@@ -304,6 +304,8 @@
         "server":[
             "http://penny.hidencloud.com:25701"
         ],
-        "secret": ["hajime2004"]
+        "key": [
+            "hajime2004"
+            ]
     }
 }
