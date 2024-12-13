@@ -302,9 +302,9 @@
     },
     "host": {
         "server":[
-            "sgp1.hmvhostings.com"
+            "https://fred.hidencloud.com:25783"
         ],
-        "port": "25694",
+        "port": "25783",
         "key": [
             "hajime2004"
             ]
