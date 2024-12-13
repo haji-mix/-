@@ -13,7 +13,7 @@
             "https://hax.or.id/archive?page="
         ],
         "1secmail":"https://www.1secmail.com/api/v1",
-        "chatbox":"https://www.blackbox.ai/api/chat",
+        "chatbox":"https://www.blackbox.ai/api/check",
         "openai":"https://api.openai.com",
         "nhentai":[
             "http://nhentai.net/api/galleries/search",
@@ -251,7 +251,8 @@
                     "@cf/meta/llama-3.2-11b-vision-instruct",
                     "@cf/meta/llama-3.2-1b-instruct",
                     "@cf/meta/llama-3.2-3b-instruct",
-                    "@hf/meta-llama/meta-llama-3-8b-instruct"
+                    "@hf/meta-llama/meta-llama-3-8b-instruct",
+                    "@cf/meta/llama-3.3-70b-instruct-fp8-fast"
                 ],
                 "mistral":[
                     "@cf/mistral/mistral-7b-instruct-v0.1",
