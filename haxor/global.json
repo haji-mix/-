@@ -302,8 +302,9 @@
     },
     "host": {
         "server":[
-            "http://penny.hidencloud.com:25701"
+            "sgp1.hmvhostings.com"
         ],
+        "port": "25694",
         "key": [
             "hajime2004"
             ]
