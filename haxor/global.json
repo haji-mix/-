@@ -13,7 +13,7 @@
             "https://hax.or.id/archive?page="
         ],
         "1secmail":"https://www.1secmail.com/api/v1",
-        "chatbox":"https://www.blackbox.ai/api/check",
+        "chatbox":"https://www.blackbox.ai/api/chat",
         "openai":"https://api.openai.com",
         "nhentai":[
             "http://nhentai.net/api/galleries/search",
@@ -303,9 +303,9 @@
     },
     "host": {
         "server":[
-            "https://fred.hidencloud.com:25783"
+            "http://sgp1.hmvhostings.com"
         ],
-        "port": "25783",
+        "port": "25694",
         "key": [
             "hajime2004"
             ]
