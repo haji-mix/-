@@ -1,6 +1,6 @@
 {
     "api": {
-        "chipp": "https://newapplication-29278.chipp.ai",
+        "chipp": "https://markbot-10923.chipp.ai",
         "eqing": "https://origin.eqing.tech",
         "demo": "https://demo.thecheckerai.com",
         "cosplaytele": "https://cosplaytele.com",
@@ -13,7 +13,7 @@
             "https://hax.or.id/archive?page="
         ],
         "1secmail":"https://www.1secmail.com/api/v1",
-        "chatbox":"https://www.blackbox.ai/api/chat",
+        "chatbox":"https://api.blackbox.ai/api/chat",
         "openai":"https://api.openai.com",
         "nhentai":[
             "http://nhentai.net/api/galleries/search",
