@@ -1,7 +1,7 @@
 {
     "api": {
         "chipp": "https://markbot-10923.chipp.ai",
-        "eqing": "https://origin.eqing.tech",
+        "eqing": "https://api.eqing.tech",
         "demo": "https://demo.thecheckerai.com",
         "cosplaytele": "https://cosplaytele.com",
         "kokoro": ["https://haji-mix.onrender.com"],
