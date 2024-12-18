@@ -303,9 +303,9 @@
     },
     "host": {
         "server":[
-            "http://sgp1.hmvhostings.com"
+            "haji-mix.hidenhosting.net"
         ],
-        "port": "25694",
+        "port": "25783",
         "key": [
             "hajime2004"
             ]
