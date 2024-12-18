@@ -232,8 +232,7 @@
                 "@cf/lykon/dreamshaper-8-lcm",
                 "@cf/runwayml/stable-diffusion-v1-5-inpainting",
                 "@cf/stabilityai/stable-diffusion-xl-base-1.0",
-                "@cf/bytedance/stable-diffusion-xl-lightning",
-                "@cf/black-forest-labs/flux-1-schnell"
+                "@cf/bytedance/stable-diffusion-xl-lightning"
             ],
             "models": {
                 "llama":[
