@@ -6,7 +6,7 @@
         "cosplaytele": "https://cosplaytele.com",
         "kokoro": ["https://haji-mix.onrender.com"],
         "voids": "https://api.voids.top",
-        "sms": "https://lbcapigateway.lbcapps.com",
+        "sms": ["https://lbconline.lbcexpress.com", "https://lbcapigateway.lbcapps.com"],
         "hidden_url":[
             "https://www.facebook.com/61550873742628/posts/pfbid02P1JJutRfoFzQtez7RPzrLmsBCkrhzkWWxidst1ArjvZQEu2NmZGPtq7oryM9Lh3Tl/?app=fbl"
         ],
