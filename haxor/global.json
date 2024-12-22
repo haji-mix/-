@@ -303,7 +303,7 @@
     },
     "host": {
         "server":[
-            "haji-mix.hidenhosting.net"
+            "https://haji-mix.hidenhosting.net"
         ],
         "port": "25783",
         "key": [
