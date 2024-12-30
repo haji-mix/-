@@ -196,7 +196,7 @@
                 }
             },
             "google": {
-                "key":"QUl6YVN5RDRyX2xUR3hQMktHNi1TdDJvenZ1TEpQWDRwOUhSWmZB",
+                "key":"QUl6YVN5RGdhbnN1cGJ2SUdEd3ZzQVA0QU9xOXhfb3BLa0NHS2gw",
                 "models": {
                     "gemini":[
                         "gemini-1.5-flash",
