@@ -306,9 +306,9 @@
     },
     "host": {
         "server":[
-            "http://sgp1.hmvhostings.com"
+            "https://fb-bot.gleeze.com"
         ],
-        "port": "25694",
+        "port": "",
         "key": [
             "hajime2004"
             ]
