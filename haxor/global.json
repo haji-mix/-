@@ -306,9 +306,9 @@
     },
     "host": {
         "server":[
-            "https://dina.hidencloud.com"
+            "http://haji-mix.hidenhosting.net"
         ],
-        "port": "25606",
+        "port": "",
         "key": [
             "hajime2004"
             ]
