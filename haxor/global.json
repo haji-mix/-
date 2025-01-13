@@ -306,9 +306,9 @@
     },
     "host": {
         "server":[
-            "https://fb-bot.gleeze.com"
+            "https://dina.hidencloud.com"
         ],
-        "port": "",
+        "port": "25606",
         "key": [
             "hajime2004"
             ]
