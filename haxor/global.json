@@ -308,7 +308,7 @@
         "server":[
             "http://haji-mix.hidenhosting.net"
         ],
-        "port": "",
+        "port": "25645",
         "key": [
             "hajime2004"
             ]
