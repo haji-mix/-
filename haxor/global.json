@@ -187,7 +187,6 @@
                         "codellama/CodeLlama-34b-Instruct-hf"
                     ],
                     "microsoft":[
-                        "microsoft/DialoGPT-large",
                         "microsoft/Phi-3-mini-4k-instruct",
                         "microsoft/Phi-3.5-mini-instruct",
                         "microsoft/Phi-3.5-vision-instruct"
@@ -202,19 +201,22 @@
                 "key":"QUl6YVN5RGdhbnN1cGJ2SUdEd3ZzQVA0QU9xOXhfb3BLa0NHS2gw",
                 "models": {
                     "gemini":[
+                        "gemini-2.0-flash",
+                        "gemini-2.0-flash-001",
+                        "gemini-2.0-flash-lite-preview-02-05",
+                        "gemini-1.5-flash-latest",
                         "gemini-1.5-flash",
-                        "gemini-1.5-pro",
-                        "gemini-1.0-pro",
-                        "gemini-1.0-pro-latest",
-                        "gemini-1.0-pro-001",
-                        "text-embedding-004",
-                        "aqa",
-                        "gemini-1.5-pro-latest",
-                        "gemini-1.5-pro-001",
-                        "gemini-1.5-pro-exp-0801",
+                        "gemini-1.5-flash-001",
+                        "gemini-1.5-flash-002",
+                        "gemini-1.5-flash-8b-latest",
                         "gemini-1.5-flash-001",
                         "gemini-1.5-flash-latest",
-                        "gemini-2.0-flash-exp"
+                        "gemini-1.5-flash-8b",
+                        "gemini-1.5-flash-8b-001",
+                        "gemini-1.5-pro-latest",
+                        "gemini-1.5-pro",
+                        "gemini-1.5-pro-001",
+                        "gemini-1.5-pro-002"
                     ]
                 }
             },
@@ -248,7 +250,6 @@
                     "@cf/meta/llama-3-8b-instruct",
                     "@cf/meta/llama-3-8b-instruct-awq",
                     "@cf/meta/llama-3.1-8b-instruct",
-                    "@hf/thebloke/llamaguard-7b-awq",
                     "@cf/tinyllama/tinyllama-1.1b-chat-v1.0",
                     "@cf/meta/llama-3.1-8b-instruct-awq",
                     "@cf/meta/llama-3.1-8b-instruct-fp8",
